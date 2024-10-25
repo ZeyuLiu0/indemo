@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 
-../here/hello.txt
+/here/hello.txt
 ../you.txt
